@@ -1,8 +1,5 @@
-Santa Wish List
+Wish List
 ===============
 
-I've been a very good girl/boy and this is what I want for Xmas that'd make OSAlt be so much more amazing.  
+Use this project to request things that you want to see being implemented.  Open an issue here and describe a project.  If it seems worthwhile and it has potential to be more then a personal project we'll create it under OSAlt and figure out how to get patches / collaboration to work.
 
-Please open an issue and tell me your heart's desires. 
-
-xoxo and toodles.
