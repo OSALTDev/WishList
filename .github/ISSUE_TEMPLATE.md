@@ -15,8 +15,9 @@
 
 
 *Resources:*
-Replace [ ] with [X] if you need access to that community resource to accomplish your project.
-- [ ] Mailing List
-- [ ] Discord Chat Channel
-- [ ] Discord Voice
-- [ ] ...
+List all community resources you need access to for accomplishing your project.
+For example:
+- Mailing List
+- Discord Chat Channel
+- Discord Voice
+- ...
